@@ -1,0 +1,12 @@
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\bin\Debug\Poynter_CourseProject_part2.exe.config
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\bin\Debug\Poynter_CourseProject_part2.exe
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\bin\Debug\Poynter_CourseProject_part2.pdb
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.csproj.AssemblyReference.cache
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.MainForm.resources
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.Properties.Resources.resources
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.csproj.GenerateResource.cache
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.csproj.CoreCompileInputs.cache
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.exe
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.pdb
+C:\Users\Reid\OneDrive\Desktop\CEIS209\Poynter_CourseProject_part2\obj\Debug\Poynter_CourseProject_part2.inputForm.resources
